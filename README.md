@@ -71,6 +71,6 @@ Um vídeo de demonstração foi produzido para mostrar o funcionamento do projet
 - Uma breve explicação das funcionalidades implementadas.
 - O aluno aparecendo pessoalmente para demonstrar o projeto.
 
-[Link para o vídeo no Google Drive](#https://drive.google.com/file/d/1exIJpgIJm7UKt9Ue1Wwu_mItnia-SnZL/view?usp=sharing)
+[Link para o vídeo no Google Drive](https://drive.google.com/file/d/1exIJpgIJm7UKt9Ue1Wwu_mItnia-SnZL/view?usp=sharing)
 
 ---
